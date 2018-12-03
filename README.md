@@ -23,8 +23,33 @@ Student Alcohol Consumption data science
 # Iniciando as análises 
 
 ## Análise dos dados (Quantidade de Homens e Mulheres)
+![Homens e Mulheres](img/5.png)
 
 ## Análise dos dados ( Distribuição da idade dos alunos )
+**Alunos de Matemática**
+
+![Alunos de Matemática](img/5Matematica.png)
+
+**Alunos de Portugues**
+
+![Alunos de Portugues](img/6portugues.png)
+
+## Consumo de bebida alcoólica nos dias de trabalho (IDADE)
+**Alunos da turma de Matemática + Alunos da Turma de Português**
+![Idade](img/4.png)
+
+## Consumo de bebida alcoólica nos finais de semana (IDADE)
+**Alunos da turma de Matemática + Alunos da Turma de Português**
+![Idade](img/2.png)
+
+## Consumo de bebida alcoólica nos dias de trabalho (SEXO)
+**Alunos da turma de Matemática + Alunos da Turma de Português**
+![Sexo](img/1.png)
+
+## Consumo de bebida alcoólica nos finais de semana (SEXO)
+**Alunos da turma de Matemática + Alunos da Turma de Português**
+![Sexo](img/3.png)
+
 
 ## Problemas encontrados
 * Os alunos não possuem identificador 
